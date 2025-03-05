@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anonymous-yo
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on hackathons and projects.
 - 📫 You can contact me via gmail, my gmail address is Unattested@gmail.com
 
 <!---
