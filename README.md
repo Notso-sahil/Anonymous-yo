@@ -1,6 +1,6 @@
 yo
 
-Collab : https://colab.research.google.com/github/Notso-sahil/Anonymous-yo/blob/main/Welcome_to_Colab.ipynb
+Collab : https://colab.research.google.com/drive/1C98O32zEe7bn-PQXTQIdVAu0xcCxf_dL?usp=sharing
 
 
 <!---
