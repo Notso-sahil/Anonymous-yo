@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Anonymous-yo
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on hackathons and projects.
-- 📫 You can contact me via gmail, my gmail address is Unattested@gmail.com
+yo
+
+Collab : https://colab.research.google.com/github/Notso-sahil/Anonymous-yo/blob/main/Welcome_to_Colab.ipynb
+
 
 <!---
 Anonymous-yo/Anonymous-yo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
